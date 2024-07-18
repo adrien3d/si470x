@@ -1,0 +1,12 @@
+[package]
+name = "si470x"
+version = "0.1.0"
+authors = ["Adrien Chapelet"]
+description = "Si470x library"
+license = "MIT"
+homepage = "https://github.com/adrien3d/si470x"
+repository = "https://github.com/adrien3d/si470x"
+edition = "2021"
+readme = "README.md"
+
+[dependencies]
